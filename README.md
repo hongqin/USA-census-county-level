@@ -5,4 +5,5 @@ https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-tota
 
 2020 December 29 <br> 
 Hong Qin removed the header and footnotes, and deleted 2 middle columns, and saved the file as csv. 
+Hong removed a dot in front county name using BBEdit replace all. 
 
