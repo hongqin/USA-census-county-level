@@ -8,5 +8,5 @@ Hong Qin removed the header and footnotes, and deleted 2 middle columns, and sav
 Hong removed a dot in front county name using BBEdit replace all. 
 
 # County-level data with demographics 168M
-https://www2.census.gov/programs-surveys/popest/datasets/2010-2019/counties/asrh/cc-est2019-alldata.csv
-File layout https://www2.census.gov/programs-surveys/popest/technical-documentation/file-layouts/2010-2019/cc-est2019-alldata.pdf 
+https://www2.census.gov/programs-surveys/popest/datasets/2010-2019/counties/asrh/cc-est2019-alldata.csv <br> 
+File layout https://www2.census.gov/programs-surveys/popest/technical-documentation/file-layouts/2010-2019/cc-est2019-alldata.pdf  <br>
