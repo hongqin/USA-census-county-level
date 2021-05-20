@@ -19,5 +19,10 @@ http://quickfacts.census.gov/qfd/download/DataSet.txt
 https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards 
 https://en.wikipedia.org/wiki/FIPS_county_code
 
-#R package 'noncensus'
+# R packages
+* census2016
+https://cran.r-project.org/web/packages/Census2016/Census2016.pdf 
+* censusapi
+* 
+* gone: 'noncensus'
 https://rdrr.io/cran/noncensus/
