@@ -20,6 +20,7 @@ https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards
 https://en.wikipedia.org/wiki/FIPS_county_code
 
 # R packages
+* https://cran.r-project.org/web/packages/tidycensus/tidycensus.pdf 
 * census2016
 https://cran.r-project.org/web/packages/Census2016/Census2016.pdf 
 
