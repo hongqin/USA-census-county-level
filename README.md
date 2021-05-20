@@ -22,7 +22,8 @@ https://en.wikipedia.org/wiki/FIPS_county_code
 # R packages
 * census2016
 https://cran.r-project.org/web/packages/Census2016/Census2016.pdf 
-* censusapi
+
+* censusapi (require key), not practical for classroom usage
 * 
 * gone: 'noncensus'
 https://rdrr.io/cran/noncensus/
