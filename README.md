@@ -24,7 +24,9 @@ https://en.wikipedia.org/wiki/FIPS_county_code
 * census2016
 https://cran.r-project.org/web/packages/Census2016/Census2016.pdf 
 
-* censusapi (require key), not practical for classroom usage
-* 
+* censusapi (require key), 
+* Census API key request: 
+https://api.census.gov/data/create_success.html
+
 * gone: 'noncensus'
 https://rdrr.io/cran/noncensus/
